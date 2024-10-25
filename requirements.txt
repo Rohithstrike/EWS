@@ -1,3 +1,4 @@
-yara-python==4.3.1  # For YARA rule scanning
-requests==2.31.0    # For interacting with VirusTotal and Hybrid-Analysis APIs
-pefile==2023.2.7    # For analyzing PE (Portable Executable) files
+yara-python
+requests
+pefile
+aiohttp
